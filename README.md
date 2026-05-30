@@ -31,7 +31,7 @@ Our model is trained on a dataset tracking **1,500 historical home sales**. The 
 
 ---
 
-## 👥 Engineering & Analytics Team
+## 👥 Analytics Team
 * **Giang Ha**
 * **Trang Le**
 * **Mai Pham**
